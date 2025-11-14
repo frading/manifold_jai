@@ -1,5 +1,7 @@
 # build and run for native
 
+This has currently only been tested on linux.
+
 - `jai src/jai/build/native.jai && bin/manifold_jai_native`
 
 This should print the following:
